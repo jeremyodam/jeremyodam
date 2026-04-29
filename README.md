@@ -16,8 +16,6 @@ Most AI engineers have never run a field operation. Most operators have never sh
 | Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
 | GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
 | DigBuddy | 811 compliance assistant, bilingual EN/ES | Claude API, React, Vercel |
-| OnboardingBuddy | Field crew onboarding — policy/procedure RAG, day-1 ready | Claude API, pgvector, Supabase, RAG |
-| UnionBuddy | CBA navigation assistant for field supervisors, citation-grounded | Claude API, pgvector, Supabase, Native Citations |
 | Enterprise AI Use Case Design | Full ops AI suite, secured executive pilot approval | Use case design, RAG architecture, enterprise stakeholder alignment |
 
 ---
