@@ -4,19 +4,19 @@
 
 Most AI engineers have never run a field operation. Most operators have never shipped production software. I do both — and that combination changes what I build, who I build it for, and why it actually gets used.
 
-25 years in regulated utility operations. Field supervisor for a 600-person workforce. Six AI certifications. Two consumer apps live on the App Store and Google Play. Currently building AI-augmented operational tooling for the field, the supervisor's desk, and everywhere in between.
+25 years in regulated utility operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building AI-augmented operational tooling for the field, the supervisor's desk, and everywhere in between.
 
 ---
 
 ## What I've Shipped
 
-| Project | Impact | Stack |
+| Project | What It Is | Stack |
 |---|---|---|
-| AI Field Operations Assistant | 5 min lookups → 30 sec, 600+ operators, Fortune-class utility | Claude API, RAG, Native Citations, React, Vercel |
-| Vertical AI Platform | 19 operational modules, 1 universal backend | Claude streaming, pgvector, Supabase RLS, config-driven multi-tenancy |
-| Conversational BI in Microsoft Teams | 92–95% time saved on routine reporting | Claude API, Power BI semantic model, Teams app shell |
-| Operational Safety Assistant | Always-on, grounded in NFPA 54/58 + 49 CFR 192 | Claude API, Native Citations, RAG over public safety standards |
-| GarageBuddy AI | Live on App Store + Google Play | Capacitor, iOS + Android, Claude streaming backend |
+| Vertical AI Platform (buddyOS) | 19 operational modules, 1 universal backend | Claude streaming, pgvector, Supabase RLS, config-driven multi-tenancy |
+| Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
+| GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
+| DigBuddy | 811 compliance assistant, bilingual EN/ES | Claude API, React, Vercel |
+| Enterprise AI Use Case Design | Full ops AI suite, secured executive pilot approval | Use case design, RAG architecture, enterprise stakeholder alignment |
 
 ---
 
