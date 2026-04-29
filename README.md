@@ -4,7 +4,7 @@
 
 Most AI engineers have never run a field operation. Most operators have never shipped production software. I do both — and that combination changes what I build, who I build it for, and why it actually gets used.
 
-25 years in regulated utility operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building AI-augmented operational tooling for the field, the supervisor's desk, and everywhere in between.
+25 years in regulated utility operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building production AI tools for enterprise operations teams.
 
 ---
 
