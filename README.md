@@ -15,7 +15,8 @@ Most AI engineers have never run a field operation. Most operators have never sh
 | Vertical AI Platform | 19 operational modules, 1 universal backend | Claude streaming, pgvector, Supabase RLS, config-driven multi-tenancy |
 | Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
 | GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
-| DigBuddy | 811 compliance assistant, bilingual EN/ES | Claude API, React, Vercel |
+| DigBuddy | 811 compliance assistant, bilingual EN/ES, App Store pending | Claude API, React, Vercel, Capacitor |
+| PoolAndSpa Buddy | Pool/spa water chemistry assistant, live on Vercel | Claude API, React, Vercel, Capacitor |
 | Enterprise AI Use Case Design | Full ops AI suite, secured executive pilot approval | Use case design, RAG architecture, enterprise stakeholder alignment |
 
 ---
