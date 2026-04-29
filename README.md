@@ -12,7 +12,7 @@ Most AI engineers have never run a field operation. Most operators have never sh
 
 | Project | What It Is | Stack |
 |---|---|---|
-| Vertical AI Platform (buddyOS) | 19 operational modules, 1 universal backend | Claude streaming, pgvector, Supabase RLS, config-driven multi-tenancy |
+| Vertical AI Platform | 19 operational modules, 1 universal backend | Claude streaming, pgvector, Supabase RLS, config-driven multi-tenancy |
 | Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
 | GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
 | DigBuddy | 811 compliance assistant, bilingual EN/ES | Claude API, React, Vercel |
@@ -42,7 +42,7 @@ Google — Generative AI for Leaders
 
 ## Open To
 
-Remote senior IC and fractional roles — Forward Deployed Engineer, Applied AI Architect, Director of AI Implementation, Fractional COO at AI-native startups.
+Remote senior IC roles in AI implementation and AI operations — Forward Deployed Engineer, Director of AI Implementation, Applied AI Architect. Utility, energy, and enterprise ops sectors preferred.
 
 **[jeremyodam.com](https://jeremyodam.com)** · [LinkedIn](https://www.linkedin.com/in/jeremy-odam-52a0167b) · Pacific Northwest · Remote-first
 
