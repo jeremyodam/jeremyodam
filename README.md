@@ -4,7 +4,7 @@
 
 Most AI engineers have never run a field operation. Most operators have never shipped production software. I do both — and that combination changes what I build, who I build it for, and why it actually gets used.
 
-25 years in regulated utility operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building production AI tools for enterprise operations teams.
+25 years in regulated field operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building production AI tools for enterprise operations teams.
 
 ---
 
@@ -16,6 +16,8 @@ Most AI engineers have never run a field operation. Most operators have never sh
 | Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
 | GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
 | DigBuddy | 811 compliance assistant, bilingual EN/ES | Claude API, React, Vercel |
+| OnboardingBuddy | Field crew onboarding — policy/procedure RAG, day-1 ready | Claude API, pgvector, Supabase, RAG |
+| UnionBuddy | CBA navigation assistant for field supervisors, citation-grounded | Claude API, pgvector, Supabase, Native Citations |
 | Enterprise AI Use Case Design | Full ops AI suite, secured executive pilot approval | Use case design, RAG architecture, enterprise stakeholder alignment |
 
 ---
@@ -42,7 +44,7 @@ Google — Generative AI for Leaders
 
 ## Open To
 
-Remote senior IC roles in AI implementation and AI operations — Forward Deployed Engineer, Director of AI Implementation, Applied AI Architect. Utility, energy, and enterprise ops sectors preferred.
+Remote senior IC roles in AI implementation and AI operations — Forward Deployed Engineer, Director of AI Implementation, Applied AI Architect. Enterprise and industrial ops sectors preferred.
 
 **[jeremyodam.com](https://jeremyodam.com)** · [LinkedIn](https://www.linkedin.com/in/jeremy-odam-52a0167b) · Pacific Northwest · Remote-first
 
