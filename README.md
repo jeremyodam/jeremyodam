@@ -4,7 +4,7 @@
 
 Most AI engineers have never run a field operation. Most operators have never built production software. I do both, and that combination changes what I build, who I build it for, and why it actually gets used.
 
-25 years in regulated field operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building production AI tools for enterprise operations teams.
+25 years in regulated field operations. Field supervisor. Five AI certifications across Vanderbilt, IBM, and Google plus FEMA ICS-100/200/300. Two consumer mobile apps in active beta on iOS and Android. Currently building production AI tools for enterprise operations teams.
 
 ---
 
@@ -16,7 +16,7 @@ Most AI engineers have never run a field operation. Most operators have never bu
 | Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
 | GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
 | DigBuddy | 811 compliance assistant, bilingual EN/ES, App Store pending | Claude API, React, Vercel, Capacitor |
-| PoolAndSpa Buddy | Pool/spa water chemistry assistant, live web app | Claude API, React, Vercel, Capacitor |
+| PoolAndSpa Buddy | Pool/spa water chemistry assistant, in beta | Claude API, React, Vercel, Capacitor |
 | Enterprise AI Use Case Design | Full ops AI suite, secured executive pilot approval | Use case design, RAG architecture, enterprise stakeholder alignment |
 
 ---
@@ -35,9 +35,10 @@ Languages    TypeScript · Python
 
 ## Certifications
 
-Vanderbilt University: Claude Code · AI Agents and Agentic AI · OpenAI GPTs · Generative AI  
+Vanderbilt University: Claude Code · AI Agents and Agentic AI · OpenAI GPTs  
 IBM: Prompt Engineering for Everyone  
-Google: Generative AI for Leaders
+Google: Generative AI for Leaders  
+FEMA: ICS-100, ICS-200, ICS-300
 
 ---
 
