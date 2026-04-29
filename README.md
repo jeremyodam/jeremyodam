@@ -2,7 +2,7 @@
 
 **Operations engineer turning AI into labor. Built by operations, for operations.**
 
-Most AI engineers have never run a field operation. Most operators have never shipped production software. I do both — and that combination changes what I build, who I build it for, and why it actually gets used.
+Most AI engineers have never run a field operation. Most operators have never built production software. I do both, and that combination changes what I build, who I build it for, and why it actually gets used.
 
 25 years in regulated field operations. Field supervisor. Six AI certifications. Two consumer mobile apps in active beta on iOS and Android. Currently building production AI tools for enterprise operations teams.
 
@@ -16,7 +16,7 @@ Most AI engineers have never run a field operation. Most operators have never sh
 | Fleet + Inventory Management | Plate recognition → auto-logged vehicles and tool inventory | Plate Recognizer API, Google Sheets, Claude API |
 | GarageBuddy AI | Consumer OBD-II diagnostics, iOS + Android beta | Capacitor, iOS + Android, Claude streaming backend |
 | DigBuddy | 811 compliance assistant, bilingual EN/ES, App Store pending | Claude API, React, Vercel, Capacitor |
-| PoolAndSpa Buddy | Pool/spa water chemistry assistant, live on Vercel | Claude API, React, Vercel, Capacitor |
+| PoolAndSpa Buddy | Pool/spa water chemistry assistant, live web app | Claude API, React, Vercel, Capacitor |
 | Enterprise AI Use Case Design | Full ops AI suite, secured executive pilot approval | Use case design, RAG architecture, enterprise stakeholder alignment |
 
 ---
@@ -35,15 +35,15 @@ Languages    TypeScript · Python
 
 ## Certifications
 
-Vanderbilt University — Claude Code · AI Agents and Agentic AI · OpenAI GPTs · Generative AI  
-IBM — Prompt Engineering for Everyone  
-Google — Generative AI for Leaders
+Vanderbilt University: Claude Code · AI Agents and Agentic AI · OpenAI GPTs · Generative AI  
+IBM: Prompt Engineering for Everyone  
+Google: Generative AI for Leaders
 
 ---
 
 ## Open To
 
-Remote senior IC roles in AI implementation and AI operations — Forward Deployed Engineer, Director of AI Implementation, Applied AI Architect. Enterprise and industrial ops sectors preferred.
+Remote senior IC and fractional roles in AI implementation, AI operations, and enterprise ops automation. Forward Deployed Engineer, Applied AI Architect, Director of AI Implementation, Fractional COO at AI-native startups.
 
 **[jeremyodam.com](https://jeremyodam.com)** · [LinkedIn](https://www.linkedin.com/in/jeremy-odam-52a0167b) · Pacific Northwest · Remote-first
 
