@@ -8,7 +8,7 @@ Most AI engineers have never run a field operation. Most operators have never sh
 
 ---
 
-## What I've Shipped
+## What I've Built
 
 | Project | What It Is | Stack |
 |---|---|---|
